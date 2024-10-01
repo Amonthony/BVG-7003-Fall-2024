@@ -12,7 +12,7 @@ This repository and its contents are the intellectual property of Adrian Monthon
 
 If you are interested in using or reusing any part of this repository, please contact Adrian Monthony directly for permission.
 
-# BVG-7003-Fall-2024 
+# BVG-7003-Automne-2024 
 
 Ce dépôt contient le matériel de cours pour le cours BVG-7003 de l'Université Laval (2024). Le contenu de ce dépôt est réservé à l'usage interne de l'Université Laval. 
 
