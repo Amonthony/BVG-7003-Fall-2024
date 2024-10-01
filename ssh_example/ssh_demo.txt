@@ -1,3 +1,11 @@
+
+# Setting a username and email address in git from the command line
+
+user@user:~/home/bvg7003_git$ git config --global user.name “your_name”
+user@user:~/home/bvg7003_git$ git config --global user.email “youremail@email.com”
+user@user:~/home/bvg7003_git$ git config --global --list
+
+
 user@user:~/home/bvg7003_git$ ssh-keygen -t e
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (/home/user/.ssh/id_ed25519):
