@@ -1,4 +1,3 @@
-```markdown
 # Git Tutorial: Setting Up, Working with Branches, and Merging
 
 This tutorial will guide you through the essential steps for working with Git, from setting your username and email, to working with branches, and finally merging changes.
