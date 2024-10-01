@@ -213,5 +213,3 @@ Once the `edits` branch is merged, you can delete it if it's no longer needed.
    git push origin --delete edits
    ```
 
----
-```
