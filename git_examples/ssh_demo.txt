@@ -20,11 +20,11 @@ The key's randomart image is:
 +--[...........]--+
 |   +.            |
 |    +   o        |
-|   =  .o..       |
+|   =             |
 |. = + o+ o       |
-| B + *ooS .      |
+| B      S .      |
 |o B +++ooE       |
-| o ooo+oo        |
+| o ob            |
 |+..  ++o .       |
 |+Boo+o...        |
 +----[SHA256]-----+
